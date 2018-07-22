@@ -1,147 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4ec611-9515-4326-b64f-8109e698c2eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/.htmlhintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/.lesshintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/logout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/update-billing-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/update-password.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/update-profile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/view-account-overview.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/view-edit-password.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/account/view-edit-profile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/dashboard/view-welcome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/deliver-contact-form-message.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/confirm-email.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/send-password-recovery-email.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/update-password-and-login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/view-forgot-password.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/view-login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/view-new-password.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/entrance/view-signup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/view-homepage-or-redirect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/helpers/send-template-email.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/hooks/custom/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/User.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/policies/is-logged-in.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/policies/is-super-admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/responses/expired.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/responses/unauthorized.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/bootstrap-4/bootstrap-4.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/bootstrap-4/bootstrap-4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/bowser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/cloud.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/font-awesome-4/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/lodash.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/parasails.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/dependencies/vue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/hero-cloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/hero-ship.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/hero-sky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/hero-water.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/icon-close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/setup-customize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/setup-email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/images/setup-payment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/cloud.setup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/components/ajax-button.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/components/ajax-form.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/components/modal.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/498.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/account/account-overview.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/account/edit-password.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/account/edit-profile.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/contact.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/dashboard/welcome.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/entrance/confirmed-email.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/entrance/forgot-password.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/entrance/login.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/entrance/new-password.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/entrance/signup.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/faq.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/homepage.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/legal/privacy.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/pages/legal/terms.page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/js/utilities/open-stripe-checkout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/bootstrap-overrides.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/importer.less" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/importer.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/layout.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/404.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/498.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/500.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/account/account-overview.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/account/edit-password.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/account/edit-profile.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/contact.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/entrance/confirmed-email.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/entrance/forgot-password.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/entrance/login.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/entrance/new-password.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/entrance/signup.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/faq.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/homepage.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/legal/privacy.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/legal/terms.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/pages/welcome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/animations.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/buttons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/colors.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/containers.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/index.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/stretch-page.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/assets/styles/styleguide/typography.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/blueprints.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/blueprints.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/env/staging.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/policies.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/policies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/security.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/security.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/session.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/session.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/scripts/rebuild-cloud-sdk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/pipeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/pipeline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/404.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/404.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/498.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/500.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/500.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/emails/email-reset-password.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/emails/email-verify-account.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/emails/email-verify-new-email.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/emails/internal/email-contact-form.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/layouts/layout-email.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/layouts/layout.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/account/account-overview.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/account/edit-password.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/account/edit-profile.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/contact.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/dashboard/welcome.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/entrance/confirmed-email.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/entrance/forgot-password.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/entrance/login.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/entrance/new-password.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/entrance/signup.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/faq.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/homepage.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/homepage.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/legal/privacy.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/pages/legal/terms.ejs" beforeDir="false" />
-    </list>
+    <list default="true" id="de4ec611-9515-4326-b64f-8109e698c2eb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -154,46 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="babel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/config/babel.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="clean.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/config/clean.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="coffee.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/config/coffee.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="hash.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/tasks/config/hash.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="datastores.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+            <state relative-caret-position="920">
+              <caret line="40" column="79" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UsuarioController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/UsuarioController.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Usuario.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="models.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="1265">
               <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
             </state>
           </provider>
@@ -1227,6 +1070,24 @@
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
               <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
               <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
+              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
+              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
+              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -1264,12 +1125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532280731982</updated>
-      <workItem from="1532280736176" duration="1501000" />
+      <workItem from="1532280736176" duration="1791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1501000" />
+    <option name="totallyTimeSpent" value="1791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="840" height="953" extended-state="0" />
@@ -1283,7 +1144,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297619" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1352,22 +1213,28 @@
         <state relative-caret-position="-186" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+        <state relative-caret-position="920">
+          <caret line="40" column="79" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/UsuarioController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

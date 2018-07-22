@@ -18,7 +18,7 @@ module.exports = {
       unique: true,
       isEmail: true,
       maxLength: 200,
-      example: 'carol.reyna@microsoft.com'
+      example: 'nombre.apellido@ejemplo.com'
     },
 
     password: {
@@ -34,7 +34,7 @@ module.exports = {
       required: true,
       description: 'Full representation of the user\'s name',
       maxLength: 120,
-      example: 'Lisa Microwave van der Jenny'
+      example: 'Abradolf Lincler'
     },
 
     isSuperAdmin: {

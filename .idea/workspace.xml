@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4ec611-9515-4326-b64f-8109e698c2eb" name="Default" comment="" />
+    <list default="true" id="de4ec611-9515-4326-b64f-8109e698c2eb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/views/layouts/layout.ejs" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,30 +17,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="datastores.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js">
+      <file leaf-file-name="Usuario.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" column="79" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+            <state relative-caret-position="576">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsuarioController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/UsuarioController.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Usuario.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="models.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js">
+      <file leaf-file-name="Lugar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Lugar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1265">
-              <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+            <state relative-caret-position="344">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Habitacion.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Habitacion.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Especie.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Especie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LugarController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/LugarController.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EspecieController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/EspecieController.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="view-welcome.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJSconLogin/api/controllers/dashboard/view-welcome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-142" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registro.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Registro.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Planta.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Planta.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -60,6 +106,12 @@
         <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/User.js" />
         <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js" />
         <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Lugar.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Planta.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Registro.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Habitacion.js" />
+        <option value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Especie.js" />
       </list>
     </option>
   </component>
@@ -1020,10 +1072,9 @@
       <path value="$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJSconLogin/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="953" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1054,41 +1105,7 @@
               <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
               <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
               <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProyectoJS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="SailsDatabase" type="462c0819:PsiDirectoryNode" />
-              <item name="ProyectoJS" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="ProyectoJSconLogin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1125,18 +1142,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532280731982</updated>
-      <workItem from="1532280736176" duration="1791000" />
+      <workItem from="1532280736176" duration="5232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1791000" />
+    <option name="totallyTimeSpent" value="5232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="840" height="953" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50550795" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21907061" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -1144,7 +1160,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.28884256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1213,6 +1229,12 @@
         <state relative-caret-position="-186" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/UsuarioController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/models.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1265">
@@ -1220,21 +1242,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/custom.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/config/datastores.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
-          <caret line="40" column="79" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+          <caret line="40" column="79" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/UsuarioController.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJSconLogin/api/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Usuario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Lugar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Planta.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Registro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Habitacion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/models/Especie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/LugarController.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJS/api/controllers/EspecieController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/SailsDatabase/ProyectoJSconLogin/api/controllers/dashboard/view-welcome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-142" />
+      </provider>
     </entry>
   </component>
 </project>
